@@ -2,16 +2,16 @@
   <img src="assets/hero.svg" alt="Gaon Park" width="100%">
 </div>
 
-### 박가온 · Gaon Park
+### Gaon Park
 
 Browser tools for paperwork. Static pages, no server, no account, no upload.
 
-- **FIN 다음** (Team FINdaum), co-founder
-- **부산대학교 정치외교학과**, Pusan National University
-- 前 **국회 보좌진**
-- **KAMCO** 채권기획팀
-- **행정안전부 장관표창**, 2030 청년정책자문단 디지털정부 분과 (2025)
-- **Beyond Busan** 운영, 2기 · 3기
+- Team FINdaum, co-founder
+- Pusan National University, Political Science
+- Former Legislative Aide, National Assembly of Korea
+- Korea Asset Management Corporation (KAMCO), Bond Planning Team
+- Minister of the Interior and Safety Award, 2030 Youth Policy Advisory Board, Digital Government division (2025)
+- Beyond Busan, operations team, cohorts 2 and 3
 
 #### Live
 
@@ -35,4 +35,4 @@ Browser tools for paperwork. Static pages, no server, no account, no upload.
 | **[clearlot](https://github.com/qkrrkdhzdl-arch/clearlot)** | Colour grading for returnable glass crates with a hash-chained handoff receipt. Python, FastAPI. |
 | **[ple-measured-twice](https://github.com/qkrrkdhzdl-arch/ple-measured-twice)** | Submission tooling for Kaggle Physical-Engineering's Last Exam. Python. |
 
-부산 · KST · 공개한 코드는 리포지토리에 별도 표기가 없으면 MIT입니다.
+Busan, KST. Public code is MIT unless the repository says otherwise.
