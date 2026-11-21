@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Gaon Park — product builder, Busan">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080F"/>
+      <stop offset="0.55" stop-color="#0A111C"/>
+      <stop offset="1" stop-color="#0A1A20"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.84" cy="0.12" r="0.8">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity="0.30"/>
+      <stop offset="0.5" stop-color="#0EA5E9" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.06" cy="0.95" r="0.6">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7DD3FC" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.95"/>
+      <stop offset="0.4" stop-color="#2DD4BF" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1B27" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#08111A" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+  <rect width="1280" height="420" fill="url(#glow)"/>
+  <rect width="1280" height="420" fill="url(#glow2)"/>
+
+  <!-- stacked browser windows: every product ships as one tab -->
+  <g>
+    <rect x="836" y="154" width="316" height="176" rx="16" fill="none" stroke="#38BDF8" stroke-opacity="0.10" stroke-width="1.25"/>
+    <rect x="862" y="130" width="316" height="176" rx="16" fill="none" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1.25"/>
+    <rect x="888" y="106" width="316" height="176" rx="16" fill="url(#panel)" fill-opacity="0.92" stroke="#2DD4BF" stroke-opacity="0.38" stroke-width="1.25"/>
+    <line x1="888" y1="138" x2="1204" y2="138" stroke="#2DD4BF" stroke-opacity="0.16" stroke-width="1"/>
+    <circle cx="906" cy="122" r="3.2" fill="#2DD4BF" fill-opacity="0.55"/>
+    <circle cx="918" cy="122" r="3.2" fill="#38BDF8" fill-opacity="0.35"/>
+    <circle cx="930" cy="122" r="3.2" fill="#38BDF8" fill-opacity="0.18"/>
+    <g stroke="#22D3EE" stroke-opacity="0.28" stroke-width="1.1" fill="none">
+      <path d="M946 214 L1012 182 L1068 232 L1136 200"/>
+      <path d="M1012 182 L1068 232 L1102 156"/>
+      <path d="M946 214 L1006 254 L1068 232"/>
+    </g>
+    <g fill="#22D3EE">
+      <circle cx="946" cy="214" r="4" fill-opacity="0.95"/>
+      <circle cx="1012" cy="182" r="3.4" fill-opacity="0.75"/>
+      <circle cx="1102" cy="156" r="3.4" fill-opacity="0.6"/>
+      <circle cx="1068" cy="232" r="4.4" fill-opacity="0.95"/>
+      <circle cx="1136" cy="200" r="3.4" fill-opacity="0.7"/>
+      <circle cx="1006" cy="254" r="3" fill-opacity="0.5"/>
+    </g>
+    <g fill="#0B1522" stroke="#5EEAD4" stroke-opacity="0.55" stroke-width="1.1">
+      <circle cx="1068" cy="232" r="10" fill-opacity="0.0"/>
+    </g>
+  </g>
+
+  <!-- type block -->
+  <text x="88" y="120" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="4.2" font-weight="600" fill="#5EEAD4" fill-opacity="0.95">PORTFOLIO — 2026</text>
+  <text x="86" y="204" font-family="'Helvetica Neue', Helvetica, Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.6" fill="#F8FAFC">Gaon Park</text>
+  <text x="90" y="248" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#8FA3B8">박가온 · Product builder · Busan, KR</text>
+  <text x="90" y="304" font-family="'Helvetica Neue', Helvetica, Inter, Arial, sans-serif" font-size="21" fill="#C7D4E2" fill-opacity="0.92">Turning policy, finance and everyday friction</text>
+  <text x="90" y="334" font-family="'Helvetica Neue', Helvetica, Inter, Arial, sans-serif" font-size="21" fill="#C7D4E2" fill-opacity="0.92">into software that runs in a browser tab.</text>
+
+  <rect x="88" y="372" width="560" height="2" fill="url(#rule)"/>
+</svg>
