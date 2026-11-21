@@ -35,25 +35,25 @@ So every app below is one static page: **no server, no account, nothing uploaded
 
 ## Shipped, and live
 
-| Project | What it does | Stack | Try it |
-|:--------|:------------|:------|:-------|
-| **[Shortfall](https://github.com/qkrrkdhzdl-arch/shortfall)** | Re-adds a week of hours under Korean and US wage law, then names the gap against the payslip. | Python · JS | [Live](https://qkrrkdhzdl-arch.github.io/shortfall/) · [Tests](https://qkrrkdhzdl-arch.github.io/shortfall/tests.html) |
-| **[Second Read](https://github.com/qkrrkdhzdl-arch/second-read)** | Marks the part of a suspicious message that is doing the work — Korean or English, offline. 94/94 browser assertions. | Python | [Live](https://qkrrkdhzdl-arch.github.io/second-read/) |
-| **[Blot](https://github.com/qkrrkdhzdl-arch/blot)** | Finds the personal data in a document, proves each number by check digit, then scores what still re-identifies after masking. | JS · Python | [Live](https://qkrrkdhzdl-arch.github.io/blot/) |
-| **[Clause Drift](https://github.com/qkrrkdhzdl-arch/clausedrift)** | Diffs two versions of a contract clause by clause and puts the money side by side: `₩650,000 → ₩720,000 (+10.8%)`. | JS · Python | [Live](https://qkrrkdhzdl-arch.github.io/clausedrift/) |
-| **[HWP Reader](https://github.com/qkrrkdhzdl-arch/hwp-reader)** | Opens Korean HWP 5.0 documents in the browser — OLE2/CFB container and record streams parsed on the device. | JS · HTML | [Live](https://qkrrkdhzdl-arch.github.io/hwp-reader/) |
-| **[PacketProof](https://github.com/qkrrkdhzdl-arch/packetproof)** | Pre-flights an application packet — missing files, wrong formats, duplicates, ID numbers — then seals a SHA-256 receipt. | Python | [Live](https://qkrrkdhzdl-arch.github.io/packetproof/) |
-| **[NoticeLine](https://github.com/qkrrkdhzdl-arch/noticeline)** | Turns a Korean grant notice into an eligibility check, a document checklist and a D-day plan exported as `.ics`. | JS | [Live](https://qkrrkdhzdl-arch.github.io/noticeline/) |
-| **[FieldLog](https://github.com/qkrrkdhzdl-arch/fieldlog)** | Offline-first construction safety log: Gemini Nano on the device, Gemini Flash when the device cannot run it. | JS · Firebase | [Live](https://qkrrkdhzdl-arch.github.io/fieldlog/) |
-| **[Morrow](https://github.com/qkrrkdhzdl-arch/morrow)** | A deadline *graph*, not a to-do list — which single artifact unblocks three deadlines, in the tab, on Neo4j WASM + OPFS. | Cypher · JS | [Live](https://qkrrkdhzdl-arch.github.io/morrow/) |
-| **[Fearless Ledger](https://github.com/qkrrkdhzdl-arch/fearless-ledger)** | A Fearless Draft room for professional League of Legends, built on 801 LCK/LPL/LEC/LCS/Worlds games. | JS · Python | [Live](https://qkrrkdhzdl-arch.github.io/fearless-ledger/) |
+| Project | What it does | Try it |
+|:--------|:------------|:-------|
+| **[Shortfall](https://github.com/qkrrkdhzdl-arch/shortfall)**<br><sub>Python · JS</sub> | Re-adds a week of hours under Korean and US wage law, then names the gap against the payslip. | [Live](https://qkrrkdhzdl-arch.github.io/shortfall/) · [Tests](https://qkrrkdhzdl-arch.github.io/shortfall/tests.html) |
+| **[Second Read](https://github.com/qkrrkdhzdl-arch/second-read)**<br><sub>Python</sub> | Marks the part of a suspicious message that is doing the work — Korean or English, offline. 94/94 browser assertions. | [Live](https://qkrrkdhzdl-arch.github.io/second-read/) |
+| **[Blot](https://github.com/qkrrkdhzdl-arch/blot)**<br><sub>JS · Python</sub> | Finds the personal data in a document, proves each number by check digit, then scores what still re-identifies after masking. | [Live](https://qkrrkdhzdl-arch.github.io/blot/) |
+| **[Clause Drift](https://github.com/qkrrkdhzdl-arch/clausedrift)**<br><sub>JS · Python</sub> | Diffs two versions of a contract clause by clause and puts the money side by side: `₩650,000 → ₩720,000 (+10.8%)`. | [Live](https://qkrrkdhzdl-arch.github.io/clausedrift/) |
+| **[HWP Reader](https://github.com/qkrrkdhzdl-arch/hwp-reader)**<br><sub>JS · HTML</sub> | Opens Korean HWP 5.0 documents in the browser — OLE2/CFB container and record streams parsed on the device. | [Live](https://qkrrkdhzdl-arch.github.io/hwp-reader/) |
+| **[PacketProof](https://github.com/qkrrkdhzdl-arch/packetproof)**<br><sub>Python</sub> | Pre-flights an application packet — missing files, wrong formats, duplicates, ID numbers — then seals a SHA-256 receipt. | [Live](https://qkrrkdhzdl-arch.github.io/packetproof/) |
+| **[NoticeLine](https://github.com/qkrrkdhzdl-arch/noticeline)**<br><sub>JS</sub> | Turns a Korean grant notice into an eligibility check, a document checklist and a D-day plan exported as `.ics`. | [Live](https://qkrrkdhzdl-arch.github.io/noticeline/) |
+| **[FieldLog](https://github.com/qkrrkdhzdl-arch/fieldlog)**<br><sub>JS · Firebase</sub> | Offline-first construction safety log: Gemini Nano on the device, Gemini Flash when the device cannot run it. | [Live](https://qkrrkdhzdl-arch.github.io/fieldlog/) |
+| **[Morrow](https://github.com/qkrrkdhzdl-arch/morrow)**<br><sub>JS · Cypher</sub> | A deadline *graph*, not a to-do list — which single artifact unblocks three deadlines, in the tab, on Neo4j WASM + OPFS. | [Live](https://qkrrkdhzdl-arch.github.io/morrow/) |
+| **[Fearless Ledger](https://github.com/qkrrkdhzdl-arch/fearless-ledger)**<br><sub>JS · Python</sub> | A Fearless Draft room for professional League of Legends, built on 801 LCK/LPL/LEC/LCS/Worlds games. | [Live](https://qkrrkdhzdl-arch.github.io/fearless-ledger/) |
 
 **In the workshop** — source only for now:
 
-| Project | What it does | Stack |
-|:--------|:------------|:------|
-| **[ClearLot](https://github.com/qkrrkdhzdl-arch/clearlot)** | Colour-graded crates for returnable glass, with a hash-chained handoff receipt a plant can verify without trusting the app. | Python · FastAPI · SQLite |
-| **[measured-twice](https://github.com/qkrrkdhzdl-arch/ple-measured-twice)** | An agent harness for Kaggle's PLE: measure twice, cut once — deliverable contract first, engineering second. | Python |
+| Project | What it does |
+|:--------|:------------|
+| **[ClearLot](https://github.com/qkrrkdhzdl-arch/clearlot)**<br><sub>Python · FastAPI · SQLite</sub> | Colour-graded crates for returnable glass, with a hash-chained handoff receipt a plant can verify without trusting the app. |
+| **[measured-twice](https://github.com/qkrrkdhzdl-arch/ple-measured-twice)**<br><sub>Python</sub> | An agent harness for Kaggle's PLE: measure twice, cut once — deliverable contract first, engineering second. |
 
 ---
 
