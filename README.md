@@ -52,7 +52,7 @@ So every app below is one static page: **no server, no account, nothing uploaded
 
 | Project | What it does |
 |:--------|:------------|
-| **[ClearLot](https://github.com/qkrrkdhzdl-arch/clearlot)**<br><sub>Python · FastAPI · SQLite</sub> | Colour-graded crates for returnable glass, with a hash-chained handoff receipt a plant can verify without trusting the app. |
+| **[ClearLot](https://github.com/qkrrkdhzdl-arch/clearlot)**<br><sub>Python · FastAPI</sub> | Colour-graded crates for returnable glass, with a hash-chained handoff receipt a plant can verify without trusting the app. |
 | **[measured-twice](https://github.com/qkrrkdhzdl-arch/ple-measured-twice)**<br><sub>Python</sub> | An agent harness for Kaggle's PLE: measure twice, cut once — deliverable contract first, engineering second. |
 
 ---
@@ -81,8 +81,8 @@ So every app below is one static page: **no server, no account, nothing uploaded
 ## Signals
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=qkrrkdhzdl-arch&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&hide_rank=true&title_color=5EEAD4&icon_color=22D3EE&text_color=C7D4E2&card_width=430" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrrkdhzdl-arch&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=5EEAD4&text_color=C7D4E2&card_width=330" alt="Top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=qkrrkdhzdl-arch&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&hide_rank=true&title_color=5EEAD4&icon_color=22D3EE&text_color=C7D4E2&card_width=430" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrrkdhzdl-arch&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=5EEAD4&text_color=C7D4E2&card_width=330" alt="Top languages" height="160">
 </p>
 
 ---
