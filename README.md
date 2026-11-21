@@ -59,7 +59,7 @@ So every app below is one static page: **no server, no account, nothing uploaded
 
 ## Built for
 
-`EvoHacks 2` · `SafeSpace Hacks` · `SLAY HACKS 2026` · `LaunchPad Hacks 2026` · `Silicon Valley Buildathon 2026` · `GenHacks 2026` · `Kiroween 2026` · `#BuildHybridAI 2026` · `Cloud9 × JetBrains — Sky's the Limit 2026` · `Arbiter Hacks V1` · `Kaggle PLE`
+<sub>EvoHacks 2 · SafeSpace Hacks · SLAY HACKS 2026 · LaunchPad Hacks 2026 · Silicon Valley Buildathon 2026 · GenHacks 2026 · Kiroween 2026 · #BuildHybridAI 2026 · Cloud9 × JetBrains — Sky's the Limit 2026 · Arbiter Hacks V1 · Kaggle PLE</sub>
 
 ---
 
@@ -71,7 +71,8 @@ So every app below is one static page: **no server, no account, nothing uploaded
   <img src="https://img.shields.io/badge/Python-0A111C?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-0A111C?style=flat-square&logo=fastapi&logoColor=05998B" alt="FastAPI">
   <img src="https://img.shields.io/badge/SQLite-0A111C?style=flat-square&logo=sqlite&logoColor=44A8D0" alt="SQLite">
-  <img src="https://img.shields.io/badge/Neo4j%20WASM-0A111C?style=flat-square&logo=neo4j&logoColor=018BFF" alt="Neo4j">
+  <br>
+  <img src="https://img.shields.io/badge/Neo4j-0A111C?style=flat-square&logo=neo4j&logoColor=018BFF" alt="Neo4j">
   <img src="https://img.shields.io/badge/Firebase%20AI%20Logic-0A111C?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase AI Logic">
   <img src="https://img.shields.io/badge/Gemini%20Nano%20%2F%20Flash-0A111C?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
   <img src="https://img.shields.io/badge/GitHub%20Pages-0A111C?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
@@ -80,7 +81,7 @@ So every app below is one static page: **no server, no account, nothing uploaded
 ## Signals
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=qkrrkdhzdl-arch&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=5EEAD4&icon_color=22D3EE&text_color=C7D4E2&card_width=430" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=qkrrkdhzdl-arch&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&hide_rank=true&title_color=5EEAD4&icon_color=22D3EE&text_color=C7D4E2&card_width=430" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrrkdhzdl-arch&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=5EEAD4&text_color=C7D4E2&card_width=330" alt="Top languages" height="165">
 </p>
 
