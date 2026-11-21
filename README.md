@@ -12,6 +12,7 @@ Browser tools for paperwork. Static pages, no server, no account, no upload.
 - Korea Asset Management Corporation (KAMCO), Bond Planning Team
 - Minister of the Interior and Safety Award, 2030 Youth Policy Advisory Board, Digital Government division (2025)
 - Beyond Busan, operations team, cohorts 2 and 3
+- League of Legends, former Master tier (Zac support)
 
 #### Live
 
