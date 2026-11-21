@@ -5,7 +5,6 @@
 <p align="center"><sub>정책·금융·생활의 마찰을 브라우저 탭에서 도는 소프트웨어로 바꿉니다.</sub></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%EC%9D%B4-%EA%B0%80%EC%98%A8-14409935b"><img src="https://img.shields.io/badge/LinkedIn-0A111C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="24"></a>
   <a href="https://blog.naver.com/nomad_eats"><img src="https://img.shields.io/badge/Blog-0A111C?style=flat-square&logo=naver&logoColor=03C75A" alt="Blog" height="24"></a>
   <img src="https://img.shields.io/badge/Busan%2C%20KR-KST-0A111C?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Busan, KR" height="24">
 </p>
