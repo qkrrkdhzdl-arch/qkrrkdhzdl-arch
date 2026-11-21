@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="assets/hero.svg?v=2" alt="Gaon Park" width="100%">
+  <img src="assets/hero.svg?v=3" alt="Gaon Park" width="100%">
 </div>
 
 ### Gaon Park
 
 Browser tools for paperwork. Static pages, no server, no account, no upload.
 
-- Team FINdaum, co-founder
-- Pusan National University, Political Science
+- Co-founder, Team FINdaum
+- Political Science, Pusan National University
 - Former Legislative Aide, National Assembly of Korea
-- Korea Asset Management Corporation (KAMCO), Bond Planning Team
-- Minister of the Interior and Safety Award, 2030 Youth Policy Advisory Board, Digital Government division (2025)
-- Beyond Busan, operations team, cohorts 2 and 3
-- League of Legends, Master tier (Zac support)
+- Corporate Restructuring Desk, Korea Asset Management Corporation (KAMCO)
+- Youth Policy Advisory Member, Ministry of the Interior and Safety (Minister's Commendation, 2025)
+- Operations Team, Beyond Busan (Cohorts 2 & 3)
+- League of Legends Master Tier
 
 #### Live
 
