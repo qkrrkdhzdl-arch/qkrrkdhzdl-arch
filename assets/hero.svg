@@ -61,11 +61,9 @@
   </g>
 
   <!-- type block -->
-  <text x="88" y="120" font-family="'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="4.2" font-weight="600" fill="#5EEAD4" fill-opacity="0.95">PORTFOLIO — 2026</text>
   <text x="86" y="204" font-family="'Helvetica Neue', Helvetica, Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.6" fill="#F8FAFC">Gaon Park</text>
   <text x="90" y="248" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#8FA3B8">박가온 · Product builder · Busan, KR</text>
-  <text x="90" y="304" font-family="'Helvetica Neue', Helvetica, Inter, Arial, sans-serif" font-size="21" fill="#C7D4E2" fill-opacity="0.92">Turning policy, finance and everyday friction</text>
-  <text x="90" y="334" font-family="'Helvetica Neue', Helvetica, Inter, Arial, sans-serif" font-size="21" fill="#C7D4E2" fill-opacity="0.92">into software that runs in a browser tab.</text>
+  <text x="90" y="334" font-family="'Helvetica Neue', Helvetica, Inter, Arial, sans-serif" font-size="21" fill="#C7D4E2" fill-opacity="0.92">13 public repositories · 10 running live</text>
 
   <rect x="88" y="372" width="560" height="2" fill="url(#rule)"/>
 </svg>
