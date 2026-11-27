@@ -18,6 +18,7 @@ Browser tools for paperwork. Static pages, no server, no account, no upload.
 
 | Project | What it does | Demo |
 |:--------|:-------------|:-----|
+| **[one-in-fifty-million-preview](https://github.com/qkrrkdhzdl-arch/one-in-fifty-million-preview)** | Life simulator set in South Korea, built on Statistics Korea birth, life-expectancy and income distributions. Also on [r/oneinfiftymillion](https://www.reddit.com/r/oneinfiftymillion/). | [demo](https://qkrrkdhzdl-arch.github.io/one-in-fifty-million-preview/) |
 | **[shortfall](https://github.com/qkrrkdhzdl-arch/shortfall)** | Weekly hours and overtime pay under the Korean Labor Standards Act and the US FLSA, checked against the payslip. | [demo](https://qkrrkdhzdl-arch.github.io/shortfall/) |
 | **[blot](https://github.com/qkrrkdhzdl-arch/blot)** | Finds personal data in a document, verifies numbers by check digit, and reports what still re-identifies after masking. | [demo](https://qkrrkdhzdl-arch.github.io/blot/) |
 | **[hwp-reader](https://github.com/qkrrkdhzdl-arch/hwp-reader)** | Opens Korean HWP 5.0 documents in the browser. OLE2/CFB container and record streams parsed on the device. | [demo](https://qkrrkdhzdl-arch.github.io/hwp-reader/) |
